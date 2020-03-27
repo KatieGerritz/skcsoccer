@@ -1,0 +1,175 @@
+body {
+  background-color: rgb(147, 177, 214);
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(1, 43, 101);
+}
+
+.nav {
+  float: left;
+  display: block;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: white;
+}
+
+.nav :hover {
+  background-color: rgb(0, 27, 65);
+}
+
+#title {
+  color: rgb(1, 43, 101);
+  text-align: center;
+}
+
+.MLScupimg {
+  height: 250px;
+  margin: 10px;
+}
+
+#logo {
+  margin: 20px;
+  width: 200px;
+  position: absolute;
+  left: 600px;
+}
+
+#hist {
+  background-color: white;
+  width: 40%;
+  position: absolute;
+  top: 400px;
+  left: 30px;
+  margin: 10px;
+  padding: 15px;
+}
+
+#top1 {
+  width: 50%;
+  margin: 10px;
+  position: absolute;
+  top: 400px;
+  right: 30px;
+}
+
+#top2 {
+  width: 50%;
+  margin: 10px;
+  position: absolute;
+  right: 30px;
+  top: 900px;
+}
+
+#long {
+  width: 95%;
+  margin: 30px;
+  position: absolute;
+  top: 1500px;
+}
+
+#history {
+  font-size: 45px;
+  text-align: center;
+  color: rgb(1, 43, 101);
+}
+
+.history-text {
+  font-size: 23px;
+  text-align: center;
+  color: rgb(1, 43, 101);
+}
+
+.rostertable {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 30px;
+  position: absolute;
+  left: 300px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: white;
+}
+
+#rosterpic {
+  width: 60%;
+  margin: 40px;
+  position: absolute;
+  left: 235px;
+  top: 1050px;
+}
+
+#top5 {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(1, 43, 101);
+}
+
+#listvids {
+  background-color: white;
+  font-size: 25px;
+  width: 45%;
+  margin: 30px;
+  padding: 10px;
+  position: absolute;
+  left: 60px;
+}
+
+.goalscorers {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 30px;
+}
+
+#records {
+  width: 40%;
+  position: absolute;
+  right: 80px;
+}
+
+#player {
+  color: rgb(1, 43, 101);
+}
+
+#topgoal {
+  color: rgb(1, 43, 101);
+}
+
+#seasonrecords {
+  color: rgb(1, 43, 101);
+}
+
+#recs {
+  color: rgb(1, 43, 101);
+}
+
+.cuptitles {
+  color: rgb(1, 43, 101);
+  font-size: 30px;
+  text-align: center;
+}
+
+.years {
+  color: rgb(1, 43, 101);
+  font-size: 20px;
+}
+
+#allcups {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  widows: 70%;
+  position: absolute;
+  left: 240px;
+}
